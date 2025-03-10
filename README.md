@@ -1,16 +1,31 @@
-## Olá, seja bem-vindo! Eu sou o Guilherme! 👋
+# Seja bem-vindo! Eu sou o Guilherme. 👋
 
-<!--
-**guiferreira1997/guiferreira1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou a procura de uma oportunidade na área de tecnologia.
+- 🌱 Atualmente estou estudando C#, cybersecurity, ReactNative, desenvolvimento de APIs e sistemas operacionais. Também estou estudando conteúdos relacionados a área de negócios de tecnologia,
+como metologias ágeis, gerencimaneto de TI, qualidade de software entre outros.
+- ✉️ E-mail: SEU EMAIL
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/guiferreira1997/github-readme-stats" style="margin-right: 10px;">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=guiferreira1997&show_icons=true&theme=dark&rank_icon=github" />
+  </a>
+  <a href="https://github.com/guiferreira1997/convoychat">
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guiferreira1997&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div> 
+ <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/guilhermeamorimferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guiferreira1997/guiferreira1997/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guiferreira1997/guiferreira1997/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guiferreira1997/guiferreira1997/output/github-contribution-grid-snake.svg">
+</picture>
+
