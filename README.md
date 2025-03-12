@@ -3,7 +3,7 @@
 - 🔭 Estou a procura de uma oportunidade na área de tecnologia.
 - 🌱 Atualmente estou estudando C#, cybersecurity, ReactNative, desenvolvimento de APIs e sistemas operacionais. Também estou estudando conteúdos relacionados a área de negócios de tecnologia,
 como metologias ágeis, gerencimaneto de TI, qualidade de software entre outros.
-- ✉️ E-mail: SEU EMAIL
+- ✉️ E-mail: guiferreira01@hotmail.com
 
 <div align="center">
   <a href="https://github.com/guiferreira1997/github-readme-stats" style="margin-right: 10px;">
@@ -17,7 +17,7 @@ como metologias ágeis, gerencimaneto de TI, qualidade de software entre outros.
 ##
 
 <div> 
- <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ <a href="mailto:guiferreira01@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/guilhermeamorimferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
