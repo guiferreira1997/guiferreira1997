@@ -1,7 +1,7 @@
 # Seja bem-vindo! Eu sou o Guilherme. 👋
 
 - 🔭 Estou a procura de uma oportunidade na área de tecnologia.
-- 🌱 Atualmente estou estudando C#, cybersecurity, ReactNative, desenvolvimento de APIs e sistemas operacionais. Também estou estudando conteúdos relacionados a área de negócios de tecnologia,
+- 🌱 Atualmente estou estudando Ciência de dados na EBAC, desenvolvimento de APIs e sistemas operacionais. Também estou estudando conteúdos relacionados a área de negócios de tecnologia,
 como metologias ágeis, gerencimaneto de TI, qualidade de software entre outros.
 - ✉️ E-mail: guiferreira01@hotmail.com
 
